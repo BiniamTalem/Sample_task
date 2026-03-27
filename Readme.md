@@ -1,2 +1,2 @@
-# My name is Biniam and this is my first project on github.
+# How to use github
 # If you add 
